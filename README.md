@@ -1,7 +1,7 @@
 # Agentic
 Test
 
-graph TB
+
   A[User Task Input] --> B[Task Parser & Decomposer]
   B --> C[Agent Profile Registry]
   C --> D[Assignment Engine]
